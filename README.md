@@ -56,7 +56,6 @@
 启用搜索功能后请及时更新 CDN 上缓存的静态资源文件，以免无法正常显示搜索样式。
 
 ## 感谢
-感谢yjulm进行修复
 - [yjulm](https://github.com/yjulm)
 - [imhanjie](https://github.com/imhanjie)
 - [Gridea - 一个静态博客写作客户端](https://gridea.dev/)
