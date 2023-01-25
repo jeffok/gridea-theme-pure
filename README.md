@@ -14,6 +14,7 @@
 - 在根目录下增加关于页面（感谢 [@renbaoshuo](https://github.com/renbaoshuo)） **格式 `https://example.com/about/`*
 - 自定义 CSS 样式
 - 文章搜索功能（感谢 [@uiYzzi](https://github.com/uiYzzi)）
+- 评论系统变更为Waline (感谢[@yjulm](https://github.com/yjulm))
 
 ## 预览
 
@@ -50,6 +51,8 @@
 启用搜索功能后请及时更新 CDN 上缓存的静态资源文件，以免无法正常显示搜索样式。
 
 ## 感谢
-
+感谢yjulm进行修复
+- [yjulm](https://github.com/yjulm/gridea-theme-pure)
+- [imhanjie](https://github.com/imhanjie/gridea-theme-pure)
 - [Gridea - 一个静态博客写作客户端](https://gridea.dev/)
 - [gridea-theme-starter](https://github.com/getgridea/gridea-theme-starter)
