@@ -164,11 +164,11 @@
     },
     {
       "name": "serverURL",
-      "label": "Vercel部署后的地址",
+      "label": "Waline服务器的地址",
       "group": "Waline评论系统",
       "type": "input",
       "value": "",
-      "note": "Vercel部署后的地址：your-domain.vercel.app"
+      "note": "私有部署后的服务器地址：your-domain.vercel.app"
     },
     {
       "name": "pageSize",
