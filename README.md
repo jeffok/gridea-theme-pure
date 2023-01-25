@@ -5,6 +5,11 @@
 ## 介绍
 
 一款专为 Gridea 设计的主题，默认内置 「简约白」 「暗夜黑」 「银光灰」 「墨草绿」 4 种配色方案。另外还支持以下功能：
+> 在[@imhanjie](https://github.com/imhanjie/)的基础上进行了修复：
+1. 评论系统由原来的valine变更为waline，在自定义配置中进行设置
+2. 修复搜索功能
+3. 修复手机浏览标题过长的问题 [#51](https://github.com/imhanjie/gridea-theme-pure/issues/51)
+4. ....
 
 - 自定义配色
 - 移动端页面适配
@@ -14,7 +19,7 @@
 - 在根目录下增加关于页面（感谢 [@renbaoshuo](https://github.com/renbaoshuo)） **格式 `https://example.com/about/`*
 - 自定义 CSS 样式
 - 文章搜索功能（感谢 [@uiYzzi](https://github.com/uiYzzi)）
-- 评论系统变更为Waline (感谢[@yjulm](https://github.com/yjulm))
+- 评论系统Waline (感谢[@yjulm](https://github.com/yjulm))
 
 ## 预览
 
@@ -52,7 +57,7 @@
 
 ## 感谢
 感谢yjulm进行修复
-- [yjulm](https://github.com/yjulm/gridea-theme-pure)
-- [imhanjie](https://github.com/imhanjie/gridea-theme-pure)
+- [yjulm](https://github.com/yjulm)
+- [imhanjie](https://github.com/imhanjie)
 - [Gridea - 一个静态博客写作客户端](https://gridea.dev/)
 - [gridea-theme-starter](https://github.com/getgridea/gridea-theme-starter)
